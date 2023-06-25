@@ -4,6 +4,6 @@ Repositório do desafio no [docker hub](https://exemplo.com/](https://hub.docker
 
 Rodar imagem com:
 
-```~~~~
+```
 docker run robertsonsouza/fullcycle
-```~~~~
+```
